@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1414050820 source:c:\users\joao\paciencia\paciencia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhas.h"
+
+1414050051 c:\users\joao\paciencia\paciencia\pilhas.h
+
